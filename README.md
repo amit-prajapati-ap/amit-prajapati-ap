@@ -1,4 +1,4 @@
-#👋 Hi, I'm Amit Prajapati!
+# 👋 Hi, I'm Amit Prajapati!
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with a love for crafting intuitive UIs and building scalable backend systems. I enjoy exploring new technologies, solving real-world problems through code, and contributing to impactful projects.
 
